@@ -1,4 +1,4 @@
-
+new Helper for Raycast for macOS - search-enhancement and junk-removal offers the most advanced Raycast for macOS helper, with search-enhancement and junk-removal. Ideal for macOS
 
 
 
